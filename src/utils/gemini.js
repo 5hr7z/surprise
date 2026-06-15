@@ -54,7 +54,7 @@ async function semanticSearch(query) {
     return `[Memory ${i + 1} — ${r.chunk.date}]:\n${r.chunk.dialogue}`;
   });
 
-  return "\n[REAL CONVERSATION MEMORIES FROM SEARCH]:\n" + 
+  return "\n[REAL CONVERSATION MEMORIES FROM SEARCH]:\n" +
     contextParts.join("\n\n---\n\n") +
     "\n[END OF MEMORIES. Use these real conversations to answer naturally. Talk about them like you remember them. Keep your texting style consistent.]\n";
 }
@@ -190,7 +190,7 @@ export async function getShrutiBotResponse(userMessage, history, apiKey) {
   } catch (e) {
     console.warn("[FastDB] Search failed, using fallback:", e);
   }
-  
+
   if (!memoriesContext) {
     memoriesContext = retrieveMemoriesFallback(userMessage);
   }
@@ -228,7 +228,7 @@ export async function getShrutiBotResponse(userMessage, history, apiKey) {
     }
   });
 
-  const model = "gemini-1.5-flash";
+  const model = "gemini-3.1-flash-lite";
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
   try {
