@@ -1,0 +1,518 @@
+{
+  "entities": {
+    "Shruti": {
+      "role": "Girlfriend",
+      "message_count": 318966,
+      "common_phrases": [
+        "yes",
+        "😂😂😂",
+        "yea",
+        "babe",
+        "okok",
+        "😂😂😂😂",
+        "😂😂😂😂😂",
+        "😂😂😂😂😂😂",
+        "yep",
+        "idk",
+        "😂😂😂😂😂😂😂",
+        "okay",
+        "but",
+        "what",
+        "hmm"
+      ]
+    },
+    "Harvey Deason": {
+      "role": "Boyfriend",
+      "message_count": 245891
+    }
+  },
+  "facts": [
+    "Shruti and Harvey's anniversary is May 27.",
+    "Harvey's birthday: June 15.",
+    "Shruti's birthday: May 12.",
+    "They have said 'I love you' to each other 1853 times in the past year.",
+    "Shruti's favorite pet names: babe (5660x), love (2687x), baby (1032x).",
+    "Harvey Deason's favorite pet names: babe (4331x), love (3679x), baby (2069x).",
+    "People frequently mentioned in chats: mom (2040x), dad (892x), brother (739x), nani (202x), sister (161x).",
+    "Places frequently mentioned: uk (515x), india (211x), london (69x), flight (62x), airport (38x).",
+    "Their most discussed topics: work (5494x), health (5037x), movies (4702x), food (3542x), music (1591x).",
+    "The passcode to unlock Shruti's surprise app is 2705.",
+    "Harvey went on holiday to Elounda, Crete, Greece in late May 2026. He booked it in February 2026. He got very tanned there and Shruti kept teasing him about being orange.",
+    "Harvey loves going to the gym and listens to podcasts (fitness/lifestyle ones). He often goes to the gym in the morning before work.",
+    "Shruti is based in India. Harvey is based in the UK. They are in a long-distance relationship.",
+    "Harvey works in an office. Shruti also works (they both talk about work stress a lot).",
+    "They watch movies and TV shows together (virtually). They've discussed Emily in Paris (EIP) and many other shows.",
+    "Harvey's sense of humor includes butt jokes, bongo jokes, tickling, and playful teasing. Shruti plays along but also tells him off.",
+    "They frequently discuss food, cooking, and what they're eating.",
+    "Today's date is June 15, 2026 — Harvey's birthday.",
+    "For Harvey's birthday LAST year (June 2025), Shruti gifted him a real-life scavenger hunt / puzzle game where he had to go to a park and decrypt 'packet_003'."
+  ],
+  "emotional_peaks": [
+    {
+      "date": "2025-06-17",
+      "score": 485,
+      "sample_quote": "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹"
+    },
+    {
+      "date": "2025-07-02",
+      "score": 472,
+      "sample_quote": "🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+    },
+    {
+      "date": "2025-06-15",
+      "score": 465,
+      "sample_quote": "🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+    },
+    {
+      "date": "2025-12-07",
+      "score": 425,
+      "sample_quote": "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹"
+    },
+    {
+      "date": "2025-07-23",
+      "score": 415,
+      "sample_quote": "🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂 I🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂LOVE🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+    },
+    {
+      "date": "2026-06-05",
+      "score": 414,
+      "sample_quote": "🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+    },
+    {
+      "date": "2025-07-19",
+      "score": 358,
+      "sample_quote": "🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+    },
+    {
+      "date": "2025-11-30",
+      "score": 334,
+      "sample_quote": "🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+    }
+  ],
+  "all_extracted_facts": [
+    {
+      "type": "anniversary",
+      "date": "2025-07-25",
+      "date_display": "July 25, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Happy anniversary to Mr and Mrs Khobes🥹",
+      "context": "anniversary_celebration"
+    },
+    {
+      "type": "anniversary",
+      "date": "2026-05-27",
+      "date_display": "May 27, 2026",
+      "speaker": "Shruti",
+      "quote": "Happy 3yrs anniversary",
+      "context": "anniversary_celebration"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-06-13",
+      "date_display": "June 13, 2025",
+      "speaker": "Shruti",
+      "quote": "Happy Birthday Harvey"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-06-14",
+      "date_display": "June 14, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "It's your birthday"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-06-15",
+      "date_display": "June 15, 2025",
+      "speaker": "Shruti",
+      "quote": "Happy birthday again baby"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-06-17",
+      "date_display": "June 17, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Is this late birthday present?!?"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-06-18",
+      "date_display": "June 18, 2025",
+      "speaker": "Shruti",
+      "quote": "Late Birthday gift"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-06-20",
+      "date_display": "June 20, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "He has last year's happy birthday ghosted aswell😂😂😂"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-07-08",
+      "date_display": "July 08, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Of a guy saying he has his kids earn the money to buy his friends birthday presents"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-07-17",
+      "date_display": "July 17, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Awwww birthday gift"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-07-26",
+      "date_display": "July 26, 2025",
+      "speaker": "Shruti",
+      "quote": "Happy Birthday to George from me !!"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-08-04",
+      "date_display": "August 04, 2025",
+      "speaker": "Shruti",
+      "quote": "Even birthday cakes n food order on my birthday i do it myself"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-08-18",
+      "date_display": "August 18, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Can't say we usually spend 300 on birthday gifts😂"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-12-06",
+      "date_display": "December 06, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Then when it's my birthday"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-12-08",
+      "date_display": "December 08, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Happy birthday"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-12-08",
+      "date_display": "December 08, 2025",
+      "speaker": "Shruti",
+      "quote": "It’s usually happy birthday"
+    },
+    {
+      "type": "birthday",
+      "date": "2025-12-31",
+      "date_display": "December 31, 2025",
+      "speaker": "Harvey Deason",
+      "quote": "Happy birthday Auntie khobessssss"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-01-01",
+      "date_display": "January 01, 2026",
+      "speaker": "Shruti",
+      "quote": "Happy New Year and Belated Happy Birthday to your mother too!!!"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-01-03",
+      "date_display": "January 03, 2026",
+      "speaker": "Harvey Deason",
+      "quote": "Oh yea happy birthday"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-01-05",
+      "date_display": "January 05, 2026",
+      "speaker": "Harvey Deason",
+      "quote": "Happy birthdayyyyyyyy"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-01-06",
+      "date_display": "January 06, 2026",
+      "speaker": "Shruti",
+      "quote": "happy birthday mummy papa"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-04-08",
+      "date_display": "April 08, 2026",
+      "speaker": "Shruti",
+      "quote": "Happy birthday to aunty Deason"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-04-22",
+      "date_display": "April 22, 2026",
+      "speaker": "Harvey Deason",
+      "quote": "Happy birthday SAHILLLLLLL"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-04-23",
+      "date_display": "April 23, 2026",
+      "speaker": "Harvey Deason",
+      "quote": "Awwwwwwwwwww it's so pretty🥹 I hope you're all having a lovely time together!! Happy happy birthday sahillll"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-05-12",
+      "date_display": "May 12, 2026",
+      "speaker": "Harvey Deason",
+      "quote": "Happyyyy birthdayyyy to yooouuuuuu, happy birthdayyyyyy to yooouuuuuu!! Happy birthday dear Shrutiiiiiiiiiiiii, happy birthday to yoooouuuuuuuuuu!!!!\n\nHappy happy birthday my loveee, I wish you all th"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-05-27",
+      "date_display": "May 27, 2026",
+      "speaker": "Harvey Deason",
+      "quote": "Happy birthday!"
+    },
+    {
+      "type": "birthday",
+      "date": "2026-06-09",
+      "date_display": "June 09, 2026",
+      "speaker": "Shruti",
+      "quote": "Early birthday present"
+    },
+    {
+      "type": "first_i_love_you",
+      "date": "2025-06-09",
+      "speaker": "Harvey Deason",
+      "quote": "I love you"
+    },
+    {
+      "type": "most_recent_i_love_you",
+      "date": "2026-06-13",
+      "speaker": "Shruti",
+      "quote": "i love you too"
+    },
+    {
+      "type": "total_i_love_yous",
+      "count": 1853
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-06-17",
+      "speaker": "Shruti",
+      "quote": "That day when we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-07-02",
+      "speaker": "Shruti",
+      "quote": "When we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-07-05",
+      "speaker": "Shruti",
+      "quote": "When we met it was like once a year"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-08-18",
+      "speaker": "Shruti",
+      "quote": "When we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-08-20",
+      "speaker": "Shruti",
+      "quote": "When we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-08-30",
+      "speaker": "Shruti",
+      "quote": "just when we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-12-14",
+      "speaker": "Shruti",
+      "quote": "When we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2025-12-24",
+      "speaker": "Shruti",
+      "quote": "When we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2026-02-02",
+      "speaker": "Shruti",
+      "quote": "Compared to when we met"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2026-02-20",
+      "speaker": "Shruti",
+      "quote": "When we met thats what you told me"
+    },
+    {
+      "type": "first_meeting",
+      "date": "2026-05-09",
+      "speaker": "Shruti",
+      "quote": "I dont think id have dated either way if we met in person"
+    },
+    {
+      "type": "pet_names",
+      "person": "Shruti",
+      "top_pet_names": [
+        {
+          "name": "babe",
+          "count": 5660
+        },
+        {
+          "name": "love",
+          "count": 2687
+        },
+        {
+          "name": "baby",
+          "count": 1032
+        },
+        {
+          "name": "cutie",
+          "count": 196
+        },
+        {
+          "name": "my love",
+          "count": 109
+        }
+      ]
+    },
+    {
+      "type": "pet_names",
+      "person": "Harvey Deason",
+      "top_pet_names": [
+        {
+          "name": "babe",
+          "count": 4331
+        },
+        {
+          "name": "love",
+          "count": 3679
+        },
+        {
+          "name": "baby",
+          "count": 2069
+        },
+        {
+          "name": "darling",
+          "count": 169
+        },
+        {
+          "name": "patootie",
+          "count": 158
+        }
+      ]
+    },
+    {
+      "type": "people_mentioned",
+      "people": [
+        {
+          "person": "mom",
+          "mention_count": 2040
+        },
+        {
+          "person": "dad",
+          "mention_count": 892
+        },
+        {
+          "person": "brother",
+          "mention_count": 739
+        },
+        {
+          "person": "nani",
+          "mention_count": 202
+        },
+        {
+          "person": "sister",
+          "mention_count": 161
+        }
+      ]
+    },
+    {
+      "type": "places_mentioned",
+      "places": [
+        {
+          "place": "uk",
+          "count": 515
+        },
+        {
+          "place": "india",
+          "count": 211
+        },
+        {
+          "place": "london",
+          "count": 69
+        },
+        {
+          "place": "flight",
+          "count": 62
+        },
+        {
+          "place": "airport",
+          "count": 38
+        },
+        {
+          "place": "hotel",
+          "count": 25
+        },
+        {
+          "place": "mumbai",
+          "count": 7
+        },
+        {
+          "place": "bangalore",
+          "count": 5
+        },
+        {
+          "place": "delhi",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "recurring_topics",
+      "topics": [
+        {
+          "topic": "work",
+          "mention_count": 5494
+        },
+        {
+          "topic": "health",
+          "mention_count": 5037
+        },
+        {
+          "topic": "movies",
+          "mention_count": 4702
+        },
+        {
+          "topic": "food",
+          "mention_count": 3542
+        },
+        {
+          "topic": "music",
+          "mention_count": 1591
+        },
+        {
+          "topic": "gaming",
+          "mention_count": 1511
+        },
+        {
+          "topic": "coding",
+          "mention_count": 658
+        }
+      ]
+    }
+  ]
+}

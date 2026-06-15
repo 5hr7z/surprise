@@ -1,0 +1,179 @@
+{
+  "total_messages": 564859,
+  "user_stats": {
+    "Shruti": {
+      "message_count": 318966,
+      "word_count": 1105801,
+      "char_count": 5310048,
+      "emojis": [],
+      "average_message_length": 3.5,
+      "top_emojis": [
+        {
+          "emoji": "\ud83d\ude02",
+          "count": 50978
+        },
+        {
+          "emoji": "\ud83e\udee0",
+          "count": 979
+        },
+        {
+          "emoji": "\ud83e\udee2",
+          "count": 518
+        },
+        {
+          "emoji": "\ud83e\udee3",
+          "count": 486
+        },
+        {
+          "emoji": "\ud83d\ude44",
+          "count": 483
+        },
+        {
+          "emoji": "\ud83d\ude0f",
+          "count": 476
+        },
+        {
+          "emoji": "\ud83d\ude2d",
+          "count": 474
+        },
+        {
+          "emoji": "\ud83d\udc81",
+          "count": 423
+        },
+        {
+          "emoji": "\ud83d\udc8b",
+          "count": 397
+        },
+        {
+          "emoji": "\ud83d\udc40",
+          "count": 392
+        },
+        {
+          "emoji": "\ud83e\udd79",
+          "count": 300
+        },
+        {
+          "emoji": "\ud83e\udd23",
+          "count": 258
+        }
+      ]
+    },
+    "Harvey Deason": {
+      "message_count": 245891,
+      "word_count": 1025947,
+      "char_count": 5202028,
+      "emojis": [],
+      "average_message_length": 4.2,
+      "top_emojis": [
+        {
+          "emoji": "\ud83d\ude02",
+          "count": 55208
+        },
+        {
+          "emoji": "\ud83e\udec2",
+          "count": 4915
+        },
+        {
+          "emoji": "\ud83e\udd79",
+          "count": 2493
+        },
+        {
+          "emoji": "\ud83e\udee0",
+          "count": 2008
+        },
+        {
+          "emoji": "\ud83e\udd75",
+          "count": 1842
+        },
+        {
+          "emoji": "\ud83e\udd72",
+          "count": 1528
+        },
+        {
+          "emoji": "\ud83d\udc40",
+          "count": 1336
+        },
+        {
+          "emoji": "\ud83e\udee3",
+          "count": 1211
+        },
+        {
+          "emoji": "\ud83d\udc81",
+          "count": 1186
+        },
+        {
+          "emoji": "\ud83e\udd7a",
+          "count": 1070
+        },
+        {
+          "emoji": "\ud83d\ude0f",
+          "count": 1010
+        },
+        {
+          "emoji": "\ud83e\udee2",
+          "count": 990
+        }
+      ]
+    },
+    "Sahil": {
+      "message_count": 2,
+      "word_count": 32,
+      "char_count": 161,
+      "emojis": [],
+      "average_message_length": 16.0,
+      "top_emojis": []
+    }
+  },
+  "hourly_distribution": [
+    46475,
+    63542,
+    67783,
+    40258,
+    12151,
+    3707,
+    2938,
+    2138,
+    1398,
+    1030,
+    7666,
+    19265,
+    18980,
+    22682,
+    26297,
+    21951,
+    19927,
+    20561,
+    20910,
+    25665,
+    31358,
+    27768,
+    25549,
+    34860
+  ],
+  "monthly_distribution": {
+    "2025-06": 46312,
+    "2025-07": 65266,
+    "2025-08": 50221,
+    "2025-09": 43687,
+    "2025-10": 48325,
+    "2026-06": 16039,
+    "2025-11": 46234,
+    "2025-12": 56091,
+    "2026-01": 55367,
+    "2026-02": 35755,
+    "2026-03": 35506,
+    "2026-04": 33235,
+    "2026-05": 32821
+  },
+  "initiator_stats": {
+    "Shruti": 58,
+    "Harvey Deason": 222,
+    "Sahil": 0
+  },
+  "media_omitted_counts": {
+    "Shruti": 7143,
+    "Harvey Deason": 10799,
+    "Sahil": 0
+  },
+  "total_initiations": 280
+}

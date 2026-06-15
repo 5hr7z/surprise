@@ -1,0 +1,6 @@
+{
+  "model": "gemini-embedding-2",
+  "dimensions": 256,
+  "chunk_count": 0,
+  "chunks": []
+}
