@@ -228,7 +228,7 @@ export async function getShrutiBotResponse(userMessage, history, apiKey) {
     }
   });
 
-  const model = "gemini-3.1-flash-lite";
+  const model = "gemini-1.5-flash";
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
   try {
